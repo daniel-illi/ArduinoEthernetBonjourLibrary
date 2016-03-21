@@ -1,0 +1,12 @@
+{
+    "name": "EthernetBonjour",
+    "keywords": "mdns, bonjour",
+    "description": "Bonjour Library for Arduino & Teensyduino",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/TrippyLighting/EthernetBonjour.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
